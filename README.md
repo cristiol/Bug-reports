@@ -10,8 +10,10 @@
 
 **Steps to reproduce:**
 
-1.Click on http://tucrmsarat.com/despre-noi/
+1.Click on http://tucrmsarat.com/despre-noi/.
+
 2.Click on the first image.
+
 3.Click on the arrow to see all the pictures.
 
 **Expected result:** All the pictures should be the same size.
@@ -30,7 +32,9 @@
 **Description:** The copyright of the website is not updated for the current year (in that case, for 2017).
 
 **Steps to reproduce:**
+
 1.Go on http://tucrmsarat.com/
+
 2.Scroll down to the footer of the website, where are Copyright details
 
 **Expected result:** It is expected to see the copyright updated for the current year (2023) in the footer of the website.
@@ -47,7 +51,9 @@
 **Description:** In the section "images and videos" only images are uploaded.
 
 **Steps to reproduce:**
+
 1.Click on http://tucrmsarat.com/despre-noi/
+
 2.Scroll to the bottom of the website.
 
 **Expected result:** Images and videos are uploaded.
@@ -67,8 +73,11 @@
 **Severity:** High
 
 **Steps to reproduce:**
+
 1.Open https://academybugs.com
+
 2.Click the Find Bugs link on the navigation bar
+
 3.Click on the buttons to show a certain number of results at the top left
 
 **Expected result:** The selected number of results is displayed according to the clicked buttons.
@@ -83,9 +92,13 @@ https://github.com/cristiol/Bug-reports/assets/142798921/17821e9c-be8a-4c25-9183
 **Severity:** High
 
 **Steps to reproduce:**
+
 1.Open https://academybugs.com.
+
 2.Click the Find Bugs link on the navigation bar.
+
 3.Open a product.
+
 4.Change the currency in the right side menu.
 
 **Expected result:** The currency is changed as expected.
@@ -100,10 +113,15 @@ https://github.com/cristiol/Bug-reports/assets/142798921/a6254257-b3ee-404c-8336
 **Severity:** Low
 
 **Steps to reproduce:**
+
 1.Open https://academybugs.com.
+
 2.Click the Find Bugs link on the navigation bar.
+
 3.Open a product.
+
 4.Open the cart at the bottom of right side menu.
+
 5.Clear the cart if there are any items.
 
 **Expected result:** The caption of the "Return to Store" button is written with even spacing between letters.
@@ -118,11 +136,17 @@ https://github.com/cristiol/Bug-reports/assets/142798921/a6254257-b3ee-404c-8336
 **Severity:** High
 
 **Steps to reproduce:**
+
 1.Open https://academybugs.com.
+
 2.Click the Find Bugs link on the navigation bar.
-3.Add one or more products to the cart
-4.Click the "View cart" link on top of the page
-5.Set the products quantity to 3 or more
+
+3.Add one or more products to the cart.
+
+4.Click the "View cart" link on top of the page.
+
+5.Set the products quantity to 3 or more.
+
 6.Click "update" below
 
 **Expected result:** The product quantity can be increased past 2.
@@ -137,9 +161,12 @@ https://github.com/cristiol/Bug-reports/assets/142798921/35634060-5718-4aa9-b455
 **Severity:** Medium
 
 **Steps to reproduce:**
+
 1.Open https://academybugs.com.
+
 2.Click the Find Bugs link on the navigation bar.
-3.Open a product
+
+3.Open a product.
 
 **Expected result:** The short description and description of the product are in English.
 
@@ -153,9 +180,13 @@ https://github.com/cristiol/Bug-reports/assets/142798921/35634060-5718-4aa9-b455
 **Severity:** Low
 
 **Steps to reproduce:**
+
 1.Open https://academybugs.com.
+
 2.Click the Find Bugs link on the navigation bar.
+
 3.Open a product with no color selection options.
+
 4.Scroll down to the bottom of the right side menu.
 
 **Expected result:** The Sign In button is above the footer.
@@ -170,10 +201,15 @@ https://github.com/cristiol/Bug-reports/assets/142798921/35634060-5718-4aa9-b455
 **Severity:** Low
 
 **Steps to reproduce:**
+
 1.Open https://academybugs.com.
+
 2.Click the Find Bugs link on the navigation bar.
+
 3.Open a product.
+
 4.Scroll down to the bottom of the right side menu.
+
 5.Click "Sign In" to open the sign in page.
 
 **Expected result:** The text under the New User section is in English.
@@ -188,11 +224,16 @@ https://github.com/cristiol/Bug-reports/assets/142798921/35634060-5718-4aa9-b455
 **Severity:** Low
 
 **Steps to reproduce:**
+
 1.Open https://academybugs.com.
+
 2.Click the Find Bugs link on the navigation bar.
+
 3.Open a product.
-4.Scroll to the bottom and find the sign in form in the right side menu
-5.Enter any login and password that are not registered and click "Sign In"
+
+4.Scroll to the bottom and find the sign in form in the right side menu.
+
+5.Enter any login and password that are not registered and click "Sign In".
 
 **Expected result:** The caption of the Sign In button is centered vertically.
 
@@ -206,11 +247,16 @@ https://github.com/cristiol/Bug-reports/assets/142798921/35634060-5718-4aa9-b455
 **Severity:** Low
 
 **Steps to reproduce:**
+
 1.Open https://academybugs.com.
+
 2.Click the Find Bugs link on the navigation bar.
+
 3.Open a product.
-4.Scroll down to the bottom of the right side menu
-5.Click "Sign In" without filling the form to open the Sign In page
+
+4.Scroll down to the bottom of the right side menu.
+
+5.Click "Sign In" without filling the form to open the Sign In page.
 
 **Expected result:** The title of the password field is aligned the same as the field above.
 
@@ -224,9 +270,13 @@ https://github.com/cristiol/Bug-reports/assets/142798921/35634060-5718-4aa9-b455
 **Severity:** Medium
 
 **Steps to reproduce:**
+
 1.Open https://academybugs.com.
+
 2.Click the Find Bugs link on the navigation bar.
+
 3.Open a product.
+
 4.Click the manufacturer link under the quantity.
 
 **Expected result:** The manufacturer link shows an appropriate page.
